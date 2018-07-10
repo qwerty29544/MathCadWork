@@ -1,2 +1,2 @@
 # MathCadWork
-Math dinamic systems and signal analysis work
+Math dynamic systems and signal analysis work
